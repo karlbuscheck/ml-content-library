@@ -1,4 +1,5 @@
 # ML Content Library
+*Curated notes and links on ML + AI projects, papers, and tools.*
 
 Creating a storehouse for all the cool ML (and AI) content I come across. It's a living library where I collect projects, papers and tools -- ranging from foundational research to frontier applications in history, the environment, and multimodal AI:
 
